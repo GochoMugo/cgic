@@ -1,0 +1,9 @@
+# object files
+*.o
+
+# cgic library
+libcgic.a
+
+# other compiled output
+capture
+cgictest.cgi
